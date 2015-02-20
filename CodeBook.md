@@ -7,7 +7,7 @@ to most field names to denote average of values of corresponding field names in 
 
 Acceptable and descriptive names to fields of the tidy data set have been prepared by resolving issues like:
 	 removing -, (, ), space, redundant numbers which  invalidate variable  names in R and encumber extraction of columns
-	 assuring compliance to CamelCase notation
+	 assuring compliance to CamelCase notation.
 
 The data (a tidy and modified form of the combination of normalized training and testing data from UCI HAR Dataset)
 encodes measurements from accelerometers (from the Samsung Galaxy S smartphone) for 30 subjects and the various 
