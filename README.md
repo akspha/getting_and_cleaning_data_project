@@ -15,7 +15,7 @@ in the fields mean and standard deviation
 * Please refer CodeBook.md for details about names of fields in the output file
 
 ## run_analysis.R  does the following :
-*Sets working directory to the UCI HAR Dataset directory
+* Sets working directory to the UCI HAR Dataset directory
 
 
 
@@ -53,9 +53,9 @@ ends in either -mean() or -std()
 
 * Assigns acceptable and descriptive names to fields of the tidy data set by resolving issues like
 	
-	..* removing -, (, ), space, redundant numbers which  invalidate variable  names in R and encumber extraction of columns
+	 removing -, (, ), space, redundant numbers which  invalidate variable  names in R and encumber extraction of columns
 
-	..* assuring compliance to CamelCase notation
+	 assuring compliance to CamelCase notation
 
 * Writes this so created tidy data set to a file "tidyData.txt" in UCI HAR Dataset directory
  (which would also be the current directory)

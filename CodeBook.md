@@ -24,16 +24,18 @@ with normalized values
 
 ###Following are the field names:
 * Activity
+
 	describes one of the following activities:
-	..* WALKING
-	..* WALKING_UPSTAIRS
-	..* WALKING_DOWNSTAIRS
-	..* SITTING
-	..* STANDING
-	..* LAYING
+	 WALKING
+	 WALKING_UPSTAIRS
+	 WALKING_DOWNSTAIRS
+	 SITTING
+	 STANDING
+	 LAYING
 
 
 * Subject 
+
 		This field identifies a person for whom measurements were taken via a number.
 		There 30 people and each is represented by a unique number from 1 to 30
 		
@@ -41,40 +43,75 @@ with normalized values
 ###of name of a signal and a function computed using those signal values 
 
 * AvgTimeBodyAccMagMean
+
 	Average of means of euclidean norms of body acceleration signal(time signal) 
+	
 * AvgTimeBodyAccMagStd
+
 	Average of standard deviations of euclidean norms of body acceleration signal(time signal) 
+	
 * AvgTimeGravityAccMagMean
+
 	Average of means of euclidean norms of gravity acceleration signal(time signal) 
-* AvgTimeGravityAccMagStd 
+	
+* AvgTimeGravityAccMagStd
+ 
 	Average of standard deviations of euclidean norms of body acceleration signal(time signal) 
+	
 * AvgTimeBodyAccJerkMagMean
+
 	Average of means of euclidean norms of  jerk signal(time signal) derived from linear acceleration
+	
 * AvgTimeBodyAccJerkMagStd
+
 	Average of standard deviations of euclidean norms of jerk signal(time signal) derived from linear acceleration
+	
 * AvgTimeBodyGyroMagMean
+
 	Average of means of euclidean norms of signal(time signal) from gyroscope
+	
 * AvgTimeBodyGyroMagStd
+
 	Average of standard deviations of euclidean norms of signal(time signal) from gyroscope
+	
 * AvgTimeBodyGyroJerkMagMean
+
 	Average of means of euclidean norms of jerk signal(time signal) derived from angular velocity
+	
 * AvgTimeBodyGyroJerkMagStd
+
 	Average of standard deviations of euclidean norms of jerk signal(time signal) derived from angular velocity
+	
 * AvgFreqBodyAccMagMean
+
 	Average of means of euclidean norms of body acceleration signal(frequency signal)
+	
 * AvgFreqBodyAccMagStd
-	Average of standard deviations of euclidean norms of body acceleration signal(frequency signal)       
+
+	Average of standard deviations of euclidean norms of body acceleration signal(frequency signal)
+	
 * AvgFreqBodyAccJerkMagMean
+
 	Average of means of euclidean norms of  jerk signal(frequency signal) derived from linear acceleration
+	
 * AvgFreqBodyAccJerkMagStd 
+
 	Average of standard deviations of euclidean norms of jerk signal(frequency signal) derived from linear acceleration
+
 * AvgFreqBodyGyroMagMean
+
 	Average of means of euclidean norms of signal(time signal) from gyroscope
+	
 * AvgFreqBodyGyroMagStd 
+
     Average of standard deviations of euclidean norms of signal(frequency signal) from gyroscope
+	
 * AvgFreqBodyGyroJerkMagMean
+
 	Average of means of euclidean norms of jerk signal(frequency signal) derived from angular velocity
+	
 * AvgFreqBodyGyroJerkMagStd 
+
 	Average of standard deviations of euclidean norms of jerk signal(frequency signal) derived from angular velocity
 
 ##The dataset so produced has the following attributes:
