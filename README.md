@@ -2,7 +2,7 @@
 
 ##This repo contains 
 * run_analysis.R script which operates on UCI HAR Dataset to obtain a new file embracing average of values 
-in the fields mean and standard deviation
+on the fields mean and standard deviation
 * A code book named CodeBook.md which describes names of the fields of the output data along with summary choices
 
 
