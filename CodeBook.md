@@ -26,11 +26,11 @@ with normalized values
 * Activity
 
 	describes one of the following activities:
-	 WALKING
-	 WALKING_UPSTAIRS
-	 WALKING_DOWNSTAIRS
-	 SITTING
-	 STANDING
+	 WALKING,
+	 WALKING_UPSTAIRS,
+	 WALKING_DOWNSTAIRS,
+	 SITTING,
+	 STANDING,
 	 LAYING
 
 
