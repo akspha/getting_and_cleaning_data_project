@@ -16,11 +16,11 @@ base R was used to obtain averages of extracted columns by crossing activities a
 build this data set.
 
 run_analysis.R extracts column names that contain -mean() or std() as a suffix to implement
-"extracts only the measurements on the mean and standard deviation for each measurement"
+"extracts only the measurements on the mean and standard deviation for each measurement".
 
 Please note: 
 There are no units because the dataset was obtained by manipulating a dataset(UCI HAR Dataset)
-with normalized values
+with normalized values.
 
 ###Following are the field names:
 * Activity
