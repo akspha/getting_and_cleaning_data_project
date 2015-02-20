@@ -118,4 +118,5 @@ with normalized values
 * One variable per column
 * One observation per row
 * No NA or NULL values
+
 and can therefore be considered as tidy data.
