@@ -64,4 +64,5 @@ ends in either -mean() or -std()
 * One variable per column
 * One observation per row
 * No NA or NULL values
+
 and can therefore be considered as tidy data.
